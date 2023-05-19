@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap');
+body{    
+    font-family: 'Gowun Dodum', sans-serif;
+}
+button{
+    all: unset;
+    margin: 10px 0;
+
+    background-color: #9e8cd2;
+    color: white;
+
+    padding: 5px;
+    border-radius: 14px;
+}

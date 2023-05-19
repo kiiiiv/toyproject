@@ -92,3 +92,6 @@ async function deleteData(id){
     console.log(error);
   }  
 }
+
+
+
